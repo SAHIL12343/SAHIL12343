@@ -2,14 +2,14 @@
 
 🚀 Passionate about **Data Structures & Algorithms** and **Software Development**  
 💻 Currently focusing on **Java, Problem Solving & System Design**  
-📍 Jamshedpur,India  
+📍 Jamshedpur, India  
 
 ---
 
 ## 🧠 About Me
 - 🔍 I enjoy solving complex problems and optimizing solutions  
 - 📚 Practicing DSA regularly (LeetCode / Codeforces)  
-- 🌱 Currently learning **Backend Development & System Design**  
+- 🌱 Currently learning **Backend Development, AWS & System Design**  
 - 🎯 Goal: Become a strong Software Engineer  
 
 ---
@@ -18,11 +18,22 @@
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### 🌐 Web
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,7 +43,7 @@
 
 ## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
@@ -41,12 +52,13 @@
 ## 🚀 Projects
 
 ### 🔹 DSA Practice Repository
-- Collection of solved problems
-- Covers Arrays, DP, Graphs, Trees
+- Collection of solved problems  
+- Covers Arrays, DP, Graphs, Trees  
 
-### 🔹 More Projects Coming Soon...
-- Web apps
-- Backend systems
+### 🔹 Upcoming Projects
+- 🌐 Full Stack Web App  
+- ⚙️ Backend APIs using Java  
+- ☁️ Cloud-based projects with AWS  
 
 ---
 
@@ -58,13 +70,13 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/vikash-agarwal-5b82b92a4/
-- 📧 Email: agarwalsahil186@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vikash-agarwal-5b82b92a4/
+- 📧 Email: agarwalsahil186@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
-> I can spend hours debugging one line of code 😄
+> I can spend hours debugging one line of code 😄  
 
 ---
 
